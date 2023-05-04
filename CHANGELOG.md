@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.10](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.2.9...v0.2.10) (2023-05-04)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/sashabaranov/go-openai to v1.9.3 ([#378](https://github.com/k8sgpt-ai/k8sgpt/issues/378)) ([045a063](https://github.com/k8sgpt-ai/k8sgpt/commit/045a06350bf41d4177e67316978af8fcf02ff19a))
+
 ## [0.2.9](https://github.com/k8sgpt-ai/k8sgpt/compare/v0.2.8...v0.2.9) (2023-05-03)
 
 
